@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/deploy-github/static/css/main.bb947ace.chunk.css",
-    "main.js": "/deploy-github/static/js/main.2d00bdc0.chunk.js",
-    "main.js.map": "/deploy-github/static/js/main.2d00bdc0.chunk.js.map",
-    "runtime-main.js": "/deploy-github/static/js/runtime-main.a011c877.js",
-    "runtime-main.js.map": "/deploy-github/static/js/runtime-main.a011c877.js.map",
-    "static/js/2.8fd0c627.chunk.js": "/deploy-github/static/js/2.8fd0c627.chunk.js",
-    "static/js/2.8fd0c627.chunk.js.map": "/deploy-github/static/js/2.8fd0c627.chunk.js.map",
-    "index.html": "/deploy-github/index.html",
-    "precache-manifest.690c311bb8090e4db7240ce023cd2ed0.js": "/deploy-github/precache-manifest.690c311bb8090e4db7240ce023cd2ed0.js",
-    "service-worker.js": "/deploy-github/service-worker.js",
-    "static/css/main.bb947ace.chunk.css.map": "/deploy-github/static/css/main.bb947ace.chunk.css.map",
-    "static/js/2.8fd0c627.chunk.js.LICENSE.txt": "/deploy-github/static/js/2.8fd0c627.chunk.js.LICENSE.txt",
-    "static/media/add-item.svg": "/deploy-github/static/media/add-item.93fba164.svg",
-    "static/media/check-done.svg": "/deploy-github/static/media/check-done.8b4d6e74.svg",
-    "static/media/check.svg": "/deploy-github/static/media/check.fd5e3bef.svg",
-    "static/media/delete.svg": "/deploy-github/static/media/delete.704598b5.svg"
+    "main.css": "/tuanthanh94.github.io/deploy-github/static/css/main.bb947ace.chunk.css",
+    "main.js": "/tuanthanh94.github.io/deploy-github/static/js/main.a6f25c72.chunk.js",
+    "main.js.map": "/tuanthanh94.github.io/deploy-github/static/js/main.a6f25c72.chunk.js.map",
+    "runtime-main.js": "/tuanthanh94.github.io/deploy-github/static/js/runtime-main.be10aaa6.js",
+    "runtime-main.js.map": "/tuanthanh94.github.io/deploy-github/static/js/runtime-main.be10aaa6.js.map",
+    "static/js/2.8fd0c627.chunk.js": "/tuanthanh94.github.io/deploy-github/static/js/2.8fd0c627.chunk.js",
+    "static/js/2.8fd0c627.chunk.js.map": "/tuanthanh94.github.io/deploy-github/static/js/2.8fd0c627.chunk.js.map",
+    "index.html": "/tuanthanh94.github.io/deploy-github/index.html",
+    "precache-manifest.5c7efc0eaaab1de87c8d958f358f851a.js": "/tuanthanh94.github.io/deploy-github/precache-manifest.5c7efc0eaaab1de87c8d958f358f851a.js",
+    "service-worker.js": "/tuanthanh94.github.io/deploy-github/service-worker.js",
+    "static/css/main.bb947ace.chunk.css.map": "/tuanthanh94.github.io/deploy-github/static/css/main.bb947ace.chunk.css.map",
+    "static/js/2.8fd0c627.chunk.js.LICENSE.txt": "/tuanthanh94.github.io/deploy-github/static/js/2.8fd0c627.chunk.js.LICENSE.txt",
+    "static/media/add-item.svg": "/tuanthanh94.github.io/deploy-github/static/media/add-item.93fba164.svg",
+    "static/media/check-done.svg": "/tuanthanh94.github.io/deploy-github/static/media/check-done.8b4d6e74.svg",
+    "static/media/check.svg": "/tuanthanh94.github.io/deploy-github/static/media/check.fd5e3bef.svg",
+    "static/media/delete.svg": "/tuanthanh94.github.io/deploy-github/static/media/delete.704598b5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a011c877.js",
+    "static/js/runtime-main.be10aaa6.js",
     "static/js/2.8fd0c627.chunk.js",
     "static/css/main.bb947ace.chunk.css",
-    "static/js/main.2d00bdc0.chunk.js"
+    "static/js/main.a6f25c72.chunk.js"
   ]
 }
