@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb947ace.chunk.css",
-    "main.js": "/static/js/main.00f6dadf.chunk.js",
-    "main.js.map": "/static/js/main.00f6dadf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dbd73d5b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dbd73d5b.js.map",
-    "static/js/2.8fd0c627.chunk.js": "/static/js/2.8fd0c627.chunk.js",
-    "static/js/2.8fd0c627.chunk.js.map": "/static/js/2.8fd0c627.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.64c661166c292dd9d74268f6bea2ab3e.js": "/precache-manifest.64c661166c292dd9d74268f6bea2ab3e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bb947ace.chunk.css.map": "/static/css/main.bb947ace.chunk.css.map",
-    "static/js/2.8fd0c627.chunk.js.LICENSE.txt": "/static/js/2.8fd0c627.chunk.js.LICENSE.txt",
-    "static/media/add-item.svg": "/static/media/add-item.93fba164.svg",
-    "static/media/check-done.svg": "/static/media/check-done.8b4d6e74.svg",
-    "static/media/check.svg": "/static/media/check.fd5e3bef.svg",
-    "static/media/delete.svg": "/static/media/delete.704598b5.svg"
+    "main.css": "/Todo-List-React/static/css/main.bb947ace.chunk.css",
+    "main.js": "/Todo-List-React/static/js/main.f89504a0.chunk.js",
+    "main.js.map": "/Todo-List-React/static/js/main.f89504a0.chunk.js.map",
+    "runtime-main.js": "/Todo-List-React/static/js/runtime-main.0eb7ca33.js",
+    "runtime-main.js.map": "/Todo-List-React/static/js/runtime-main.0eb7ca33.js.map",
+    "static/js/2.8fd0c627.chunk.js": "/Todo-List-React/static/js/2.8fd0c627.chunk.js",
+    "static/js/2.8fd0c627.chunk.js.map": "/Todo-List-React/static/js/2.8fd0c627.chunk.js.map",
+    "index.html": "/Todo-List-React/index.html",
+    "precache-manifest.f3f8b5bd752d99272199fd1a443481fd.js": "/Todo-List-React/precache-manifest.f3f8b5bd752d99272199fd1a443481fd.js",
+    "service-worker.js": "/Todo-List-React/service-worker.js",
+    "static/css/main.bb947ace.chunk.css.map": "/Todo-List-React/static/css/main.bb947ace.chunk.css.map",
+    "static/js/2.8fd0c627.chunk.js.LICENSE.txt": "/Todo-List-React/static/js/2.8fd0c627.chunk.js.LICENSE.txt",
+    "static/media/add-item.svg": "/Todo-List-React/static/media/add-item.93fba164.svg",
+    "static/media/check-done.svg": "/Todo-List-React/static/media/check-done.8b4d6e74.svg",
+    "static/media/check.svg": "/Todo-List-React/static/media/check.fd5e3bef.svg",
+    "static/media/delete.svg": "/Todo-List-React/static/media/delete.704598b5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbd73d5b.js",
+    "static/js/runtime-main.0eb7ca33.js",
     "static/js/2.8fd0c627.chunk.js",
     "static/css/main.bb947ace.chunk.css",
-    "static/js/main.00f6dadf.chunk.js"
+    "static/js/main.f89504a0.chunk.js"
   ]
 }
